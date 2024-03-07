@@ -1,5 +1,6 @@
-### Hi there 👋
+# 🛰️ Stefan // smix22
 
+**`Creative Satellite (Developer/Designer/Writer)`**
 <!--
 **smix22/smix22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
