@@ -1,6 +1,11 @@
 # 🛰️ Stefan // smix22
 
 **`Creative Satellite (Developer/Designer/Writer)`**
+
+Junior Full Stack Developer with a passion for Frontend and a background in Design and Journalism.
+
+Creativity has been my lifelong companion, whether in writing, designing, or coding. As a creative problem-solver, both slick and functional solutions are my ultimate aspiration. My motivation is to design a responsible, supportive world and a future shaped by (digital) sustainability.
+
 <!--
 **smix22/smix22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
